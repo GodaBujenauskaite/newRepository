@@ -9,3 +9,6 @@ Download program and extract the zip archive.
 
 ## Usage
 Input numbers a and b. 
+
+## Result
+The output is the sum of two numbers. 
